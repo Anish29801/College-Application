@@ -1,0 +1,17 @@
+D:\Sample\College Appplication\College Application\bin\Debug\net6.0-windows\College Application.exe
+D:\Sample\College Appplication\College Application\bin\Debug\net6.0-windows\College Application.deps.json
+D:\Sample\College Appplication\College Application\bin\Debug\net6.0-windows\College Application.runtimeconfig.json
+D:\Sample\College Appplication\College Application\bin\Debug\net6.0-windows\College Application.dll
+D:\Sample\College Appplication\College Application\bin\Debug\net6.0-windows\College Application.pdb
+D:\Sample\College Appplication\College Application\obj\Debug\net6.0-windows\College Application.csproj.AssemblyReference.cache
+D:\Sample\College Appplication\College Application\obj\Debug\net6.0-windows\College_Application.WelcomeForm.resources
+D:\Sample\College Appplication\College Application\obj\Debug\net6.0-windows\College Application.csproj.GenerateResource.cache
+D:\Sample\College Appplication\College Application\obj\Debug\net6.0-windows\College Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sample\College Appplication\College Application\obj\Debug\net6.0-windows\College Application.AssemblyInfoInputs.cache
+D:\Sample\College Appplication\College Application\obj\Debug\net6.0-windows\College Application.AssemblyInfo.cs
+D:\Sample\College Appplication\College Application\obj\Debug\net6.0-windows\College Application.csproj.CoreCompileInputs.cache
+D:\Sample\College Appplication\College Application\obj\Debug\net6.0-windows\College Application.dll
+D:\Sample\College Appplication\College Application\obj\Debug\net6.0-windows\refint\College Application.dll
+D:\Sample\College Appplication\College Application\obj\Debug\net6.0-windows\College Application.pdb
+D:\Sample\College Appplication\College Application\obj\Debug\net6.0-windows\College Application.genruntimeconfig.cache
+D:\Sample\College Appplication\College Application\obj\Debug\net6.0-windows\ref\College Application.dll

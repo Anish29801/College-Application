@@ -1,4 +1,4 @@
-Here’s an example of a `README.md` file for the C# SQL Server .NET library implemented above.
+
 
 ```markdown
 # Data System Management Library
